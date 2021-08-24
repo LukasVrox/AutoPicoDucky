@@ -1,5 +1,6 @@
 # AutoPicoDucky
 Script is setting up a Raspberry Pi Pico to function as a USB Rubber Ducky.
+It only works on Windows!
 
 You first need to manually reset the Pico by pressing the white button on startup.
 After that, the Pi will contain 2 Files. 
