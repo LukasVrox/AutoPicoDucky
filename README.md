@@ -2,8 +2,8 @@
 Script is setting up a Raspberry Pi Pico to function as a USB Rubber Ducky.
 It only works on Windows!
 
-```Copy the files in a Desktop folder called "DuckyPySetup ```
-``` After that run the Script in CMD! ```
+```Copy the files in a Desktop folder called "DuckyPySetup 
+After that, run the Script in the commandline```
 
 You first need to manually reset the Pico by pressing the white button on startup.
 After that, the Pi will contain 2 Files. 
